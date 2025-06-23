@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+:root {
+  --color-mirage: #16232a;
+  --color-cyprus: #a4fffaad;
+  --color-cactus: #21a8a2ad;
+  --color-sand: #f0ede5;
+  --color-cherry: #9a0002;
+  --color-red: #d15153;
+  --color-vanilla: #efe6de;
+  --color-black: #070707
+}
